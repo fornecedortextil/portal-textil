@@ -3,8 +3,7 @@ import Dashboard from './components/Dashboard';
 
 export default function App() {
   return (
-    <div style={{ fontFamily: 'sans-serif', padding: '20px' }}>
-      <h1>Portal Têxtil</h1>
+    <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '20px', fontFamily: 'Arial, sans-serif' }}>
       <Dashboard />
     </div>
   );
