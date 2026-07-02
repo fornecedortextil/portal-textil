@@ -1,10 +1,9 @@
-import Dashboard from './components/Dashboard';
 import React from 'react';
+import Dashboard from './components/Dashboard';
 
 export default function App() {
   return (
-    <div>
-        {/* Atualização Forçada */}
+    <div style={{ fontFamily: 'sans-serif', padding: '20px' }}>
       <h1>Portal Têxtil</h1>
       <Dashboard />
     </div>
