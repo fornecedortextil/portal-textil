@@ -1,3 +1,4 @@
+import Dashboard from './Dashboard';
 import React from 'react';
 
 export default function App() {
@@ -5,6 +6,7 @@ export default function App() {
     <div>
       <h1>Portal Têxtil</h1>
       <p>Aplicação carregada com sucesso!</p>
+      <Dashboard />
     </div>
   );
 }
