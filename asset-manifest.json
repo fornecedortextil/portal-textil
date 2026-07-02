@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/portal-textil/static/js/main.4e657746.js",
+    "main.js": "/portal-textil/static/js/main.39cd1165.js",
     "index.html": "/portal-textil/index.html",
-    "main.4e657746.js.map": "/portal-textil/static/js/main.4e657746.js.map"
+    "main.39cd1165.js.map": "/portal-textil/static/js/main.39cd1165.js.map"
   },
   "entrypoints": [
-    "static/js/main.4e657746.js"
+    "static/js/main.39cd1165.js"
   ]
 }
